@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://ifrcgreece.github.io/4w/
+- Leaflet Map https://ifrcgreece.github.io/3w/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1jqMg_XL_bTviPH0F1lkHIPgSg17AULVGy9QOdbd2VY4/edit#gid=0
 
 ## Create your own
